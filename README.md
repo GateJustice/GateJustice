@@ -2,7 +2,7 @@
 
 # Hi, I'm Juncheng Shi 👋
 
-### Embodied AI | RL | Agents | LLM
+### Embodied AI | RL | Agent | LLM
 
 ![Profile views](https://komarev.com/ghpvc/?username=GateJustice&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/GateJustice?label=Followers&style=social)
