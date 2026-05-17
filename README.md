@@ -23,33 +23,14 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 
 ---
 
-## 🎯 Interests 
+## 🎯 Interests
 
-### Main Direction 
-
-- Embodied AI / 具身智能
-
-### Core Technical Stacks | 核心技术栈
-
-- Reinforcement Learning / 强化学习
-- Agents / 智能体
-- Large Language Models / 大模型
-- LLM Agents / 大模型智能体
-- RL Agents / 强化学习智能体
-- Planning and Decision Making / 规划与决策
-- Environment Interaction / 环境交互
-- Simulation and Evaluation / 仿真与评估
-
-### Engineering Foundation | 工程基础
-
-- Python Engineering / Python 工程实践
-- C++ Systems Programming / C++ 系统编程
-- Linux Development / Linux 开发环境
-- AI Infrastructure / AI 基础设施
-- Distributed Systems / 分布式系统
-- Experiment Management / 实验管理
-- Reproducible Research / 可复现实验
-- Performance Optimization / 性能优化
+- Embodied AI and intelligent systems
+- Reinforcement Learning
+- Agent systems
+- Large Language Models
+- AI integration with physical / simulated environments
+- Vibe Coding and emerging development workflows
 
 ---
 
