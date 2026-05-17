@@ -37,7 +37,7 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,pytorch,linux,git,docker,ros,bash,matlab,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,pytorch,linux,git,docker,ros,bash,matlab&theme=dark" />
 </p>
 
 ## 🧭 Goals
