@@ -150,7 +150,7 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&theme=react-dark&hide_border=true&area=true)](https://github.com/GateJustice)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&theme=github-dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GateJustice&theme=onedark&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
