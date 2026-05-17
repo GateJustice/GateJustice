@@ -60,10 +60,17 @@ I also keep building my engineering foundation in **Python, C++, Linux, AI infra
 
 ## 🛠️ Tech Stack
 
+### Languages & Frameworks
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,rust,ts,linux,bash,git,docker,ros,nodejs,matlab,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,pytorch&theme=dark" />
 </p>
 
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,ros,bash,matlab,mysql&theme=dark" />
+</p>
 ---
 
 ## 🌱 Currently Learning | 当前正在学习
