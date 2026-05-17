@@ -14,21 +14,7 @@
 
 ## 👋 About Me
 
-你好，我是 **Juncheng Shi**，GitHub ID 是 **GateJustice**。
-
-我目前的主要兴趣方向是 **具身智能（Embodied AI）**。  
-我关注智能系统如何在环境中进行感知、理解、决策、学习与行动，并希望逐步构建能够在真实或仿真环境中完成任务的智能体系统。
-
-围绕具身智能这个长期目标，我重点学习和实践三类相对独立、但可以相互结合的技术栈：
-
-- **强化学习（Reinforcement Learning）**：关注智能体如何通过交互、奖励和策略优化进行学习。
-- **智能体（Agents）**：关注任务规划、工具使用、记忆、反思、多步决策和环境交互。
-- **大模型（Large Language Models）**：关注 LLM 在理解、推理、规划和智能体系统中的作用。
-
-同时，我也在持续积累 **Python、C++、Linux、系统工程、AI 基础设施、实验复现和性能优化** 等工程能力。  
-这些能力不是我的最终方向本身，而是我构建具身智能、RL Agent 和 LLM Agent 系统的重要基础。
-
-Hi, I'm **Juncheng Shi**, also known as **GateJustice** on GitHub.
+Hi, I'm **Juncheng Shi（石钧澄）**。
 
 My primary interest is **Embodied AI**. I am interested in how intelligent systems perceive, reason, learn, make decisions, and act within environments.
 
@@ -42,9 +28,9 @@ I also keep building my engineering foundation in **Python, C++, Linux, AI infra
 
 ---
 
-## 🎯 Interests | 技术方向
+## 🎯 Interests 
 
-### Main Direction | 主方向
+### Main Direction 
 
 - Embodied AI / 具身智能
 
