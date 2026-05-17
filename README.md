@@ -154,9 +154,6 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GateJustice&theme=onedark&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GateJustice&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GateJustice&layout=compact&theme=tokyonight&hide_border=true" />
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=tokyonight&hide_border=true)
 
 </div>
