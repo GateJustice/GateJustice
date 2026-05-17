@@ -4,12 +4,12 @@
 
 ### Embodied AI | RL | Agent | LLM
 
-![GitHub followers](https://img.shields.io/github/followers/GateJustice?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/GateJustice?label=Stars&style=social)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/GateJustice?label=Followers&style=social">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/GateJustice?label=Stars&style=social">
 
 <br>
 
-<img src="assets/personal%20logo.png" width="100%" alt="Personal Logo" />
+<img src="assets/personal%20logo.png" width="100%" alt="Personal Logo">
 
 </div>
 
@@ -79,17 +79,15 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 
 ---
 
-## 📫 Contact | 联系方式
+## 📫 Contact
 
 - GitHub: [@GateJustice](https://github.com/GateJustice)
-- Email: `your-email@example.com`
+- Email: `justice0314@gmail.com`
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile.
-
-Keep learning. Keep building. Keep exploring embodied intelligence.
+### The past cannot be changed, but the future is still within reach.
 
 </div>
