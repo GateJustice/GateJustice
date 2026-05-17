@@ -7,9 +7,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/GateJustice?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GateJustice?label=Stars&style=social)
 
+<br>
+
+<img src="assets/personal%20logo.png" width="100%" alt="Personal Logo" />
+
 </div>
 
 ---
+
 ## 🧑‍💻 About Me
 
 Hi, I'm **Juncheng Shi（石钧澄）**, currently a Research Assistant at **HKUST(GZ)**, working on **Embodied AI**.
