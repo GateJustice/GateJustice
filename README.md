@@ -2,7 +2,7 @@
 
 # Hi, I'm Juncheng Shi 👋
 
-### Systems | AI Infrastructure | Engineering
+### Embodied AI | Reinforcement Learning | Agents | Large Language Models
 
 ![Profile views](https://komarev.com/ghpvc/?username=GateJustice&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/GateJustice?label=Followers&style=social)
@@ -12,34 +12,63 @@
 
 ---
 
-## 👋 About Me 
+## 👋 About Me
 
-你好，我是 **Juncheng Shi**。
+你好，我是 **Juncheng Shi**，GitHub ID 是 **GateJustice**。
 
-我目前关注 **分布式系统、AI 基础设施、工程系统、高性能计算、网络仿真与系统性能优化** 等方向。  
-我正在持续学习和实践 **GitHub、Python、C++、Rust、Linux、机器学习基础设施和系统工程** 相关内容。
+我目前的主要兴趣方向是 **具身智能（Embodied AI）**。  
+我关注智能系统如何在环境中进行感知、理解、决策、学习与行动，并希望逐步构建能够在真实或仿真环境中完成任务的智能体系统。
 
-我希望通过项目实践，逐步积累工程能力，构建真正可以运行、可以复现、可以维护、可以优化的系统。
+围绕具身智能这个长期目标，我重点学习和实践三类相对独立、但可以相互结合的技术栈：
+
+- **强化学习（Reinforcement Learning）**：关注智能体如何通过交互、奖励和策略优化进行学习。
+- **智能体（Agents）**：关注任务规划、工具使用、记忆、反思、多步决策和环境交互。
+- **大模型（Large Language Models）**：关注 LLM 在理解、推理、规划和智能体系统中的作用。
+
+同时，我也在持续积累 **Python、C++、Linux、系统工程、AI 基础设施、实验复现和性能优化** 等工程能力。  
+这些能力不是我的最终方向本身，而是我构建具身智能、RL Agent 和 LLM Agent 系统的重要基础。
 
 Hi, I'm **Juncheng Shi**, also known as **GateJustice** on GitHub.
 
-I am interested in **distributed systems, AI infrastructure, engineering systems, high-performance computing, network simulation, and system performance optimization**.
+My primary interest is **Embodied AI**. I am interested in how intelligent systems perceive, reason, learn, make decisions, and act within environments.
 
-My goal is to build reliable, reproducible, maintainable, and scalable engineering systems.
+To support this direction, I am focusing on three related but distinct technical areas:
+
+- **Reinforcement Learning**, for learning through interaction and reward-driven optimization.
+- **Agents**, for planning, tool use, memory, multi-step reasoning, and environment interaction.
+- **Large Language Models**, for language understanding, reasoning, planning, and agentic systems.
+
+I also keep building my engineering foundation in **Python, C++, Linux, AI infrastructure, systems engineering, reproducible experiments, and performance optimization**, because reliable engineering is essential for building practical embodied AI systems.
 
 ---
 
 ## 🎯 Interests | 技术方向
 
-- Distributed Systems / 分布式系统
+### Main Direction | 主方向
+
+- Embodied AI / 具身智能
+
+### Core Technical Stacks | 核心技术栈
+
+- Reinforcement Learning / 强化学习
+- Agents / 智能体
+- Large Language Models / 大模型
+- LLM Agents / 大模型智能体
+- RL Agents / 强化学习智能体
+- Planning and Decision Making / 规划与决策
+- Environment Interaction / 环境交互
+- Simulation and Evaluation / 仿真与评估
+
+### Engineering Foundation | 工程基础
+
+- Python Engineering / Python 工程实践
+- C++ Systems Programming / C++ 系统编程
+- Linux Development / Linux 开发环境
 - AI Infrastructure / AI 基础设施
-- High Performance Computing / 高性能计算
-- Network Simulation / 网络仿真
-- Systems Engineering / 系统工程
+- Distributed Systems / 分布式系统
+- Experiment Management / 实验管理
+- Reproducible Research / 可复现实验
 - Performance Optimization / 性能优化
-- Machine Learning Infrastructure / 机器学习基础设施
-- Developer Tools / 开发者工具
-- Open Source Collaboration / 开源协作
 
 ---
 
@@ -56,6 +85,14 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 
+### AI, RL & Agents | AI、强化学习与智能体
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-4B8BBE?style=flat" />
+<img src="https://img.shields.io/badge/Agents-6A5ACD?style=flat" />
+<img src="https://img.shields.io/badge/LLM-111827?style=flat" />
+<img src="https://img.shields.io/badge/Embodied%20AI-0F766E?style=flat" />
+
 ### Tools & Platforms | 工具与平台
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -64,12 +101,12 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
-### AI & Infrastructure | AI 与基础设施
+### Systems & Infrastructure | 系统与基础设施
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Networking-0052CC?style=flat&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/HPC-2E3440?style=flat&logo=serverfault&logoColor=white" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-374151?style=flat" />
 
 </div>
 
@@ -77,72 +114,143 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 ## 🌱 Currently Learning | 当前正在学习
 
-- GitHub workflow and open-source collaboration
+### Embodied AI Direction
+
+- Foundations of embodied intelligence
+- Agent-environment interaction
+- Simulation-based learning and evaluation
+- Task planning and decision making
+- Vision-language-action style systems
+
+### Reinforcement Learning
+
+- Reinforcement learning fundamentals
+- Markov Decision Processes
+- Policy optimization
+- Value-based methods
+- RL experiment implementation and evaluation
+
+### Agents
+
+- Agent architecture
+- Planning and execution loops
+- Tool-using agents
+- Memory and reflection mechanisms
+- Multi-step task solving
+
+### Large Language Models
+
+- LLM fundamentals
+- Prompting and reasoning
+- LLM-based planning
+- LLM agent frameworks
+- Evaluation of LLM agent behavior
+
+### Engineering Foundation
+
 - Python engineering and project structure
 - C++ systems programming
-- Rust basics and memory safety
 - Linux development environment
-- Distributed systems fundamentals
-- AI infrastructure and machine learning systems
-- Network simulation and performance evaluation
+- GitHub workflow and open-source collaboration
 - Reproducible experiments and engineering documentation
 
 ---
 
-## 🚀 Project Directions 
+## 🚀 Project Directions
 
-我正在逐步积累以下类型的项目：
+我正在围绕 **具身智能** 逐步积累以下类型的项目。  
+当前阶段的重点不是追求复杂系统，而是通过可运行、可复现、可解释的小项目建立扎实基础。
 
-### Systems Projects
+### Embodied AI Projects
 
-- Linux command-line tools
-- File processing tools
-- Network simulation experiments
-- Performance benchmark scripts
-- Distributed system demos
-- Operating system and computer network practice
+- Simple embodied agent demos
+- Simulation environment experiments
+- Agent-environment interaction examples
+- Vision-language-action pipeline exploration
+- Task planning and evaluation prototypes
 
-### AI Infrastructure Projects 
+### Reinforcement Learning Projects
 
-- Model training scripts
-- Dataset processing pipelines
-- Experiment logging tools
-- Simple inference services
-- CPU / GPU performance experiments
-- ML workflow automation
+- Basic RL algorithm implementations
+- Grid world and control environment experiments
+- Policy learning and value learning demos
+- RL training scripts and experiment logs
+- Reproducible RL experiment templates
 
-### Engineering Practice 
+### Agent Projects
+
+- Rule-based agent demos
+- LLM-based planning agents
+- Tool-using agent prototypes
+- Multi-step reasoning and execution loops
+- Agent memory and reflection experiments
+
+### Large Language Model Projects
+
+- LLM prompting experiments
+- LLM reasoning and planning demos
+- LLM agent evaluation examples
+- Lightweight LLM application prototypes
+- LLM + RL + agent integration exploration
+
+### Engineering Practice
 
 - Clean project structure
-- Reproducible experiments
 - README documentation
-- GitHub Actions
 - Testing and benchmarking
+- GitHub Actions
+- Experiment logging
 - Code quality and maintainability
 
 ---
 
-## 📌 Featured Projects 
+## 📌 Featured Projects
 
 > I am still building and improving my project portfolio.
 
-### Project 1: Python Learning Notes
+### Project 1: Reinforcement Learning Notes
 
-- **Topic:** Python basics, scripts, and engineering practice
-- **Goal:** Build a solid foundation for future AI and systems projects
+- **Topic:** RL fundamentals, algorithms, and experiments
+- **Goal:** Build a solid foundation for future embodied AI and agent projects
 - **Status:** In progress
 
-### Project 2: Systems Engineering Practice
+### Project 2: Agent System Practice
 
-- **Topic:** Linux, Git, shell scripts, and development workflow
-- **Goal:** Improve engineering productivity and reproducibility
+- **Topic:** Agent planning, tool use, memory, and execution loops
+- **Goal:** Understand how intelligent agents can solve multi-step tasks
 - **Status:** In progress
 
-### Project 3: AI Infrastructure Experiments
+### Project 3: LLM Agent Experiments
 
-- **Topic:** Model training, data processing, and experiment management
-- **Goal:** Understand how AI systems are built and optimized
+- **Topic:** LLM-based reasoning, planning, and agent behavior
+- **Goal:** Explore how large language models can support agent systems
 - **Status:** Planning
+
+### Project 4: Embodied AI Exploration
+
+- **Topic:** Simulation environments, interaction, and embodied decision making
+- **Goal:** Connect RL, agents, and LLMs toward embodied intelligence
+- **Status:** Planning
+
+### Project 5: Engineering Foundation
+
+- **Topic:** Python, C++, Linux, Git, and reproducible workflows
+- **Goal:** Build reliable engineering skills for AI system development
+- **Status:** Ongoing
+
+---
+
+## 🧭 Goals | 我的目标
+
+- Build a strong foundation in reinforcement learning
+- Understand how agents plan, act, and interact with environments
+- Learn how large language models can support reasoning and decision making
+- Explore embodied AI through simulation and practical projects
+- Build reproducible RL, agent, and LLM experiments
+- Improve programming and systems engineering skills
+- Create useful, well-documented repositories
+- Gradually develop a focused technical portfolio around embodied AI
+- Keep learning, building, and shipping
 
 ---
 
@@ -160,20 +268,7 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
   <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
 </picture>
 
-
 </div>
----
-
-## 🧭 Goals | 我的目标
-
-- Build stronger programming fundamentals
-- Improve system design and engineering skills
-- Learn how real-world AI infrastructure works
-- Create useful and well-documented repositories
-- Practice clean code, testing, and benchmarking
-- Contribute to open-source projects
-- Develop a personal technical portfolio
-- Keep learning, building, and shipping
 
 ---
 
@@ -188,6 +283,6 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 ### Thanks for visiting my profile.
 
-Keep building. Keep learning. Keep shipping.
+Keep learning. Keep building. Keep exploring embodied intelligence.
 
 </div>
