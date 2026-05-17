@@ -61,7 +61,7 @@ I also keep building my engineering foundation in **Python, C++, Linux, AI infra
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,linux,bash,git,docker,flask,nodejs,react,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,rust,ts,linux,bash,git,docker,ros,nodejs,matlab,mysql&theme=dark" />
 </p>
 
 ---
