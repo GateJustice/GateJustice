@@ -89,11 +89,11 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 ---
 
-## 🚀 Project Directions | 项目方向
+## 🚀 Project Directions 
 
 我正在逐步积累以下类型的项目：
 
-### Systems Projects | 系统方向项目
+### Systems Projects
 
 - Linux command-line tools
 - File processing tools
@@ -102,7 +102,7 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 - Distributed system demos
 - Operating system and computer network practice
 
-### AI Infrastructure Projects | AI 基础设施项目
+### AI Infrastructure Projects 
 
 - Model training scripts
 - Dataset processing pipelines
@@ -111,7 +111,7 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 - CPU / GPU performance experiments
 - ML workflow automation
 
-### Engineering Practice | 工程实践
+### Engineering Practice 
 
 - Clean project structure
 - Reproducible experiments
@@ -122,7 +122,7 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 ---
 
-## 📌 Featured Projects | 推荐项目
+## 📌 Featured Projects 
 
 > I am still building and improving my project portfolio.
 
@@ -146,18 +146,32 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 ---
 
-## 📊 GitHub Stats | GitHub 统计
+## 📊 GitHub Stats 
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&bg_color=0f0a1f&color=c4b5fd&title_color=e9d5ff&line=a855f7&point=f5d0fe&area=true&area_color=7c3aed&border_color=5b21b6&hide_border=true&custom_title=Juncheng%20Shi's%20Contribution%20Graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&bg_color=0f0a1f&color=c4b5fd&title_color=e9d5ff&line=a855f7&point=f5d0fe&area=true&area_color=7c3aed&border_color=5b21b6&custom_title=Juncheng%20Shi's%20Contribution%20Graph)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=GateJustice&theme=onedark&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GateJustice&theme=transparent" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GateJustice&theme=transparent" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=transparent&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff)](https://git.io/streak-stats)
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 ---
 
 ## 🧭 Goals | 我的目标
