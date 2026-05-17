@@ -150,14 +150,14 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&theme=github-compact)](https://github.com/GateJustice)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&theme=react-dark&hide_border=true&area=true)](https://github.com/GateJustice)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GateJustice&theme=onedark&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GateJustice&show_icons=true&theme=default&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GateJustice&layout=compact&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GateJustice&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GateJustice&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -167,7 +167,11 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 <div align="center">
 
-![snake svg](https://raw.githubusercontent.com/GateJustice/GateJustice/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
