@@ -154,13 +154,12 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GateJustice&theme=onedark&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=tokyonight&hide_border=true)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
 </picture>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=tokyonight&hide_border=true)
 </div>
 
 ---
