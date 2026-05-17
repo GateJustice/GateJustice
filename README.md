@@ -40,7 +40,6 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
   <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,pytorch,linux,git,docker,ros,bash,matlab,mysql&theme=dark" />
 </p>
 
-
 ## 🧭 Goals
 
 - Build solid foundations in RL, Agents, and LLMs
@@ -48,6 +47,13 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 - Develop reproducible experiments and well-documented repositories
 - Improve engineering skills for building reliable AI systems
 - Keep learning, building, and shipping
+
+---
+## Open Source Highlights
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [MiniCode](https://github.com/LiuMengxuan04/MiniCode) | Lightweight terminal coding assistant with Claude Code-like workflow and TUI. | ![stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=38BDF8&labelColor=1e293b) |
 
 ---
 
