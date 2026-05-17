@@ -11,20 +11,15 @@
 </div>
 
 ---
+## 🧑‍💻 About Me
 
-## 👋 About Me
+Hi, I'm **Juncheng Shi（石钧澄）**, currently a Research Assistant at **HKUST(GZ)**, working on **Embodied AI**.
 
-Hi, I'm **Juncheng Shi（石钧澄）**。
+My core goal is to build intelligent systems that can perceive, reason, learn, make decisions, and act in real-world environments.
 
-My primary interest is **Embodied AI**. I am interested in how intelligent systems perceive, reason, learn, make decisions, and act within environments.
+Toward this goal, I mainly focus on **RL**, **Agents**, and **LLMs**, exploring how interaction-based learning, planning, tool use, memory, multi-step decision-making, language understanding, reasoning, and task planning can work together to support embodied intelligent systems.
 
-To support this direction, I am focusing on three related but distinct technical areas:
-
-- **Reinforcement Learning**, for learning through interaction and reward-driven optimization.
-- **Agents**, for planning, tool use, memory, multi-step reasoning, and environment interaction.
-- **Large Language Models**, for language understanding, reasoning, planning, and agentic systems.
-
-I also keep building my engineering foundation in **Python, C++, Linux, AI infrastructure, systems engineering, reproducible experiments, and performance optimization**, because reliable engineering is essential for building practical embodied AI systems.
+Through these directions, I hope to enable intelligent agents to perceive, learn, make decisions, and complete complex actions in real physical environments, turning ideas into practical technologies that can truly serve people.
 
 ---
 
@@ -65,141 +60,13 @@ I also keep building my engineering foundation in **Python, C++, Linux, AI infra
 </p>
 
 
-## 🌱 Currently Learning | 当前正在学习
-
-### Embodied AI Direction
-
-- Foundations of embodied intelligence
-- Agent-environment interaction
-- Simulation-based learning and evaluation
-- Task planning and decision making
-- Vision-language-action style systems
-
-### Reinforcement Learning
-
-- Reinforcement learning fundamentals
-- Markov Decision Processes
-- Policy optimization
-- Value-based methods
-- RL experiment implementation and evaluation
-
-### Agents
-
-- Agent architecture
-- Planning and execution loops
-- Tool-using agents
-- Memory and reflection mechanisms
-- Multi-step task solving
-
-### Large Language Models
-
-- LLM fundamentals
-- Prompting and reasoning
-- LLM-based planning
-- LLM agent frameworks
-- Evaluation of LLM agent behavior
-
-### Engineering Foundation
-
-- Python engineering and project structure
-- C++ systems programming
-- Linux development environment
-- GitHub workflow and open-source collaboration
-- Reproducible experiments and engineering documentation
-
----
-
-## 🚀 Project Directions
-
-我正在围绕 **具身智能** 逐步积累以下类型的项目。  
-当前阶段的重点不是追求复杂系统，而是通过可运行、可复现、可解释的小项目建立扎实基础。
-
-### Embodied AI Projects
-
-- Simple embodied agent demos
-- Simulation environment experiments
-- Agent-environment interaction examples
-- Vision-language-action pipeline exploration
-- Task planning and evaluation prototypes
-
-### Reinforcement Learning Projects
-
-- Basic RL algorithm implementations
-- Grid world and control environment experiments
-- Policy learning and value learning demos
-- RL training scripts and experiment logs
-- Reproducible RL experiment templates
-
-### Agent Projects
-
-- Rule-based agent demos
-- LLM-based planning agents
-- Tool-using agent prototypes
-- Multi-step reasoning and execution loops
-- Agent memory and reflection experiments
-
-### Large Language Model Projects
-
-- LLM prompting experiments
-- LLM reasoning and planning demos
-- LLM agent evaluation examples
-- Lightweight LLM application prototypes
-- LLM + RL + agent integration exploration
-
-### Engineering Practice
-
-- Clean project structure
-- README documentation
-- Testing and benchmarking
-- GitHub Actions
-- Experiment logging
-- Code quality and maintainability
-
----
-
-## 📌 Featured Projects
-
-> I am still building and improving my project portfolio.
-
-### Project 1: Reinforcement Learning Notes
-
-- **Topic:** RL fundamentals, algorithms, and experiments
-- **Goal:** Build a solid foundation for future embodied AI and agent projects
-- **Status:** In progress
-
-### Project 2: Agent System Practice
-
-- **Topic:** Agent planning, tool use, memory, and execution loops
-- **Goal:** Understand how intelligent agents can solve multi-step tasks
-- **Status:** In progress
-
-### Project 3: LLM Agent Experiments
-
-- **Topic:** LLM-based reasoning, planning, and agent behavior
-- **Goal:** Explore how large language models can support agent systems
-- **Status:** Planning
-
-### Project 4: Embodied AI Exploration
-
-- **Topic:** Simulation environments, interaction, and embodied decision making
-- **Goal:** Connect RL, agents, and LLMs toward embodied intelligence
-- **Status:** Planning
-
-### Project 5: Engineering Foundation
-
-- **Topic:** Python, C++, Linux, Git, and reproducible workflows
-- **Goal:** Build reliable engineering skills for AI system development
-- **Status:** Ongoing
-
----
-
 ## 🧭 Goals | 我的目标
 
 - Build a strong foundation in reinforcement learning
 - Understand how agents plan, act, and interact with environments
 - Learn how large language models can support reasoning and decision making
 - Explore embodied AI through simulation and practical projects
-- Build reproducible RL, agent, and LLM experiments
+- Build reproducible RL, agent, 和 LLM experiments
 - Improve programming and systems engineering skills
 - Create useful, well-documented repositories
 - Gradually develop a focused technical portfolio around embodied AI
