@@ -151,16 +151,12 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GateJustice&bg_color=0f0a1f&color=c4b5fd&title_color=e9d5ff&line=a855f7&point=f5d0fe&area=true&area_color=7c3aed&border_color=5b21b6&hide_border=true&custom_title=Juncheng%20Shi's%20Contribution%20Graph)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=GateJustice&theme=onedark&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
 </picture>
-![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=tokyonight&hide_border=true)
-</div>
 
 ---
 
