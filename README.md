@@ -156,12 +156,6 @@ My goal is to build reliable, reproducible, maintainable, and scalable engineeri
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GateJustice&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
