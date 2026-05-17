@@ -58,43 +58,11 @@ I also keep building my engineering foundation in **Python, C++, Linux, AI infra
 
 ---
 
-## 🛠️ Tech Stack | 技术栈
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages | 编程语言
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-
-### AI, RL & Agents | AI、强化学习与智能体
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-4B8BBE?style=flat" />
-<img src="https://img.shields.io/badge/Agents-6A5ACD?style=flat" />
-<img src="https://img.shields.io/badge/LLM-111827?style=flat" />
-<img src="https://img.shields.io/badge/Embodied%20AI-0F766E?style=flat" />
-
-### Tools & Platforms | 工具与平台
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-
-### Systems & Infrastructure | 系统与基础设施
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-0052CC?style=flat&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/HPC-2E3440?style=flat&logo=serverfault&logoColor=white" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-374151?style=flat" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,linux,bash,git,docker,kubernetes,flask,nodejs,react,mysql&theme=dark" />
+</p>
 
 ---
 
