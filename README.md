@@ -41,16 +41,12 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 </p>
 
 
-## 🧭 Goals | 我的目标
+## 🧭 Goals
 
-- Build a strong foundation in reinforcement learning
-- Understand how agents plan, act, and interact with environments
-- Learn how large language models can support reasoning and decision making
-- Explore embodied AI through simulation and practical projects
-- Build reproducible RL, agent, 和 LLM experiments
-- Improve programming and systems engineering skills
-- Create useful, well-documented repositories
-- Gradually develop a focused technical portfolio around embodied AI
+- Build solid foundations in RL, Agents, and LLMs
+- Explore embodied intelligence through simulation and practical projects
+- Develop reproducible experiments and well-documented repositories
+- Improve engineering skills for building reliable AI systems
 - Keep learning, building, and shipping
 
 ---
