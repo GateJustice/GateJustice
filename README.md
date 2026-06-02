@@ -52,12 +52,12 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 - Improve engineering skills for building reliable AI systems
 - Keep learning, building, and shipping
 
----
 ## Open Source Highlights
 
-| Project | Description | Stars |
+| Project | Description | 星标 |
 |---------|-------------|-------|
 | [MiniCode](https://github.com/LiuMengxuan04/MiniCode) | Lightweight terminal coding assistant with Claude Code-like workflow and TUI. | ![stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [Shushu Internship Tool](https://github.com/LiuMengxuan04/shushu-internship-tool) | AI-powered internship assistant that transforms job descriptions into project plans, resumes, and interview preparation materials. | ![stars](https://img.shields.io/github/stars/LiuMengxuan04/shushu-internship-tool?style=flat-square&color=38BDF8&labelColor=1e293b) |
 
 ---
 
