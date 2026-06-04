@@ -4,9 +4,6 @@
 
 ### Embodied AI | RL | Agent | LLM
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/GateJustice?label=Followers&style=social">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/GateJustice?label=Stars&style=social">
-
 <br>
 
 <img src="assets/personal%20logo.png" width="100%" alt="Personal Logo">
