@@ -78,7 +78,7 @@ Through these directions, I hope to enable intelligent agents to perceive, learn
 ## 📫 Contact
 
 - GitHub: [@GateJustice](https://github.com/GateJustice)
-- Email: `GateJustice0815@gmail.com`
+- Email: `gatejustice0304@gmail.com`
 
 ---
 
